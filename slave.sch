@@ -258,46 +258,46 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="27.686" y1="-0.254" x2="28.194" y2="0.254" layer="51"/>
 <rectangle x1="25.146" y1="-0.254" x2="25.654" y2="0.254" layer="51"/>
 <rectangle x1="22.606" y1="-0.254" x2="23.114" y2="0.254" layer="51"/>
-<wire x1="34.29" y1="48.895" x2="34.29" y2="47.625" width="0.2032" layer="22"/>
-<wire x1="13.97" y1="48.895" x2="13.97" y2="47.625" width="0.2032" layer="22"/>
-<pad name="14" x="33.02" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="15" x="30.48" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="16" x="27.94" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="17" x="25.4" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="18" x="22.86" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="19" x="20.32" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="20" x="17.78" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="21" x="15.24" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<rectangle x1="17.526" y1="48.006" x2="18.034" y2="48.514" layer="52" rot="R180"/>
+<wire x1="36.83" y1="48.895" x2="36.83" y2="47.625" width="0.2032" layer="22"/>
+<wire x1="16.51" y1="48.895" x2="16.51" y2="47.625" width="0.2032" layer="22"/>
+<pad name="14" x="35.56" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="15" x="33.02" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="16" x="30.48" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="17" x="27.94" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="18" x="25.4" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="19" x="22.86" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="20" x="20.32" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="21" x="17.78" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
 <rectangle x1="20.066" y1="48.006" x2="20.574" y2="48.514" layer="52" rot="R180"/>
 <rectangle x1="22.606" y1="48.006" x2="23.114" y2="48.514" layer="52" rot="R180"/>
-<rectangle x1="25.146" y1="48.006" x2="25.654" y2="48.514" layer="51"/>
-<rectangle x1="27.686" y1="48.006" x2="28.194" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="25.146" y1="48.006" x2="25.654" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="27.686" y1="48.006" x2="28.194" y2="48.514" layer="51"/>
 <rectangle x1="30.226" y1="48.006" x2="30.734" y2="48.514" layer="52" rot="R180"/>
 <rectangle x1="32.766" y1="48.006" x2="33.274" y2="48.514" layer="52" rot="R180"/>
-<rectangle x1="14.986" y1="48.006" x2="15.494" y2="48.514" layer="52" rot="R180"/>
-<wire x1="12.446" y1="48.895" x2="12.446" y2="47.625" width="0.2032" layer="22"/>
-<wire x1="-12.954" y1="48.895" x2="-12.954" y2="47.625" width="0.2032" layer="22"/>
-<pad name="22" x="11.176" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="23" x="8.636" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="24" x="6.096" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="25" x="3.556" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="26" x="1.016" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="27" x="-1.524" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="28" x="-4.064" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="29" x="-6.604" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<rectangle x1="-4.318" y1="48.006" x2="-3.81" y2="48.514" layer="21" rot="R180"/>
+<rectangle x1="35.306" y1="48.006" x2="35.814" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="17.526" y1="48.006" x2="18.034" y2="48.514" layer="52" rot="R180"/>
+<wire x1="14.986" y1="48.895" x2="14.986" y2="47.625" width="0.2032" layer="22"/>
+<wire x1="-10.414" y1="48.895" x2="-10.414" y2="47.625" width="0.2032" layer="22"/>
+<pad name="22" x="13.716" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="23" x="11.176" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="24" x="8.636" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="25" x="6.096" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="26" x="3.556" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="27" x="1.016" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="28" x="-1.524" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="29" x="-4.064" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
 <rectangle x1="-1.778" y1="48.006" x2="-1.27" y2="48.514" layer="21" rot="R180"/>
-<rectangle x1="0.762" y1="48.006" x2="1.27" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="0.762" y1="48.006" x2="1.27" y2="48.514" layer="21" rot="R180"/>
 <rectangle x1="3.302" y1="48.006" x2="3.81" y2="48.514" layer="52" rot="R180"/>
 <rectangle x1="5.842" y1="48.006" x2="6.35" y2="48.514" layer="52" rot="R180"/>
 <rectangle x1="8.382" y1="48.006" x2="8.89" y2="48.514" layer="52" rot="R180"/>
 <rectangle x1="10.922" y1="48.006" x2="11.43" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="13.462" y1="48.006" x2="13.97" y2="48.514" layer="52" rot="R180"/>
+<rectangle x1="-4.318" y1="48.006" x2="-3.81" y2="48.514" layer="52" rot="R180"/>
+<pad name="30" x="-6.604" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
+<pad name="31" x="-9.144" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
 <rectangle x1="-6.858" y1="48.006" x2="-6.35" y2="48.514" layer="52" rot="R180"/>
-<pad name="30" x="-9.144" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
-<pad name="31" x="-11.684" y="48.26" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
 <rectangle x1="-9.398" y1="48.006" x2="-8.89" y2="48.514" layer="52" rot="R180"/>
-<rectangle x1="-11.938" y1="48.006" x2="-11.43" y2="48.514" layer="52" rot="R180"/>
 <pad name="13" x="35.56" y="0" drill="1.1176" diameter="1.8796" shape="long" rot="R90"/>
 <rectangle x1="35.306" y1="-0.254" x2="35.814" y2="0.254" layer="51"/>
 </package>
